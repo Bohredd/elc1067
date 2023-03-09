@@ -1,2 +1,13 @@
-# elc1067
-Atividades da Cadeira de Laboratório de Programação II 
+
+# Laboratório de Programação II
+
+Cadeira que cursei no primeiro semestre do curso de Bacharelado em Sistemas de Informação da UFSM. 
+
+## Referência
+
+ - [//](google.com)
+ - [//](google.com)
+
+## Docente
+
+- [//](google.com)
